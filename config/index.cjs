@@ -46,6 +46,8 @@ const USER_CONFIG = {
         // 恋爱纪念日
         { keyword: 'marry_day', date: '2023-08-01' },
       ],
+      // 每日一句配置
+      
     },
   ],
 
